@@ -1,0 +1,5 @@
+Open CMD terminal to run these things (if you have successfully downloaded the dependencies and setup the virtual environment)
+run:
+cd "C:\Users\USER\Web development\Web-programming-exam" //path
+cd backend
+python app.py
